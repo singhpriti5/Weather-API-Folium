@@ -1,7 +1,7 @@
 # Python-Weather-with-Folium
 
 ## This code is noob friendly
-i've tried my best to make this code easy to understand, so that even a beginner can understand it easily 
+I've tried my best to make this code easy to understand, so that even a beginner can understand it easily 
 
 GET CITY AND WEATHER DATA WITH MAP USING REST-API AND FOLIUM
 
